@@ -7,6 +7,15 @@ import time
 This is the simplest grab tools
 '''
 
+'''
+This is the simplest grab tools
+'''
+'''
+This is the simplest grab tools
+'''
+'''
+This is the simplest grab tools
+'''
 
 
 # url_all=['http://www.bing.com/images/search?q=%E6%85%B5%E6%87%92%E5%B0%91%E5%A5%B3%E5%86%99%E7%9C%9F&form=ISTRTH&id=A87C17F9A484F4078C72BEB0FE1EC509BA1F59C8&cat=%E7%BE%8E%E5%A5%B3&mkt=zh-CN&first=1&cw=1588&ch=843']
